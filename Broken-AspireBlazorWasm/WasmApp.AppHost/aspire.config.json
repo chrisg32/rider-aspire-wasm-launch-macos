@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "WasmApp.AppHost.csproj"
+  }
+}

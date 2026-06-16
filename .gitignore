@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+.DS_Store
+
+# Bug-filing drafts — local only, not part of the public reproduction
+YOUTRACK-ISSUE.md
+GITHUB-ISSUE.md
