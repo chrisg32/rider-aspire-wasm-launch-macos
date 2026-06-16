@@ -19,7 +19,7 @@ On macOS, launching an Aspire AppHost **from Rider** does not spawn the dotnet p
 | Aspire CLI (tool) | 9.5.0 |
 | DCP orchestration | `aspire.hosting.orchestration.osx-arm64` 13.4.4 |
 | Rider | **2026.1.3** (build 261.25134.178) |
-| Rider .NET Aspire plugin | **2.5.1** |
+| Rider .NET Aspire plugin | **2.5.3** |
 
 > Previously also observed on Rider stable 2026.1.2 (Aspire plugin 2.5.3) and EAP 2026.2 (plugin 2.7.2) against the same Aspire 13.4.4 stack. Confirm/adjust the plugin version on your machine in Rider → Settings → Plugins.
 
